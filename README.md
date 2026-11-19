@@ -108,6 +108,3 @@ Author
 
 Vimal
 
-Aspiring Data Analyst
-
-Skills: Python | Pandas | NumPy | Matplotlib | Seaborn | Exploratory Data Analysis
